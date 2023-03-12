@@ -1,0 +1,125 @@
+path: /Users/wolf/Downloads/AIC23_Track4_Automated_Checkout/yolov5  # dataset root dir
+train: images  # train images (relative to 'path') 128 images
+val: valid_set  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes (80 COCO classes)
+names:
+  0: null
+  1: Advil Liquid Gel
+  2: Advil Tablets
+  3: Alcohol Pads
+  4: Aleve PM
+  5: Aleve Tablets
+  6: All Free and Clear Pods
+  7: Arm and Hammer Toothpaste
+  8: Bandaid Variety
+  9: Banza
+  10: Barilla Penne
+  11: Barilla Red Lentil
+  12: Barilla Rotini Pasta
+  13: Barnums Animal Crackers
+  14: Bayer Chewable 3 Pack
+  15: Bayer Lower Dose
+  16: Benadryl Allergy Tablets
+  17: Biore
+  18: Brown Rice
+  19: Bumble Bee Tuna
+  20: Cane Sugar
+  21: Chamomile Tea
+  22: Chicken Bouillon
+  23: Children_s Allegra Allergy
+  24: Children_s Zyrtec
+  25: Chocolate Fudge Poptart
+  26: Chocolate Pocky
+  27: Chocolate Strawberries
+  28: Claratin Chewable
+  29: Coffee Mate Creamer
+  30: Crackers and Cheese
+  31: Cream Cheese
+  32: Crest White Strips
+  33: Dove Cool Moisturizer
+  34: Dove Soap Sensitive
+  35: Dove Body Wash
+  36: Downy Odor Defense
+  37: Dreft Scent Beads
+  38: Dry Eye Relief
+  39: Excedrine Migraine
+  40: Extra Spearmint
+  41: Flonase
+  42: Flow Flex Covid 19 Test
+  43: French Roast Starbucks
+  44: Frosting Mix Chocolate
+  45: Fudge Oreos
+  46: Funfetti Cake
+  47: Gain Fireworks Scent Beads
+  48: Gain Flings
+  49: Garnier Shampoo
+  50: Glad Drawstring Trash Bag
+  51: Gluten Free Brownies
+  52: Gluten Free Pasta
+  53: Gournay Cheese
+  54: Healthy Choice Chicken Alfredo
+  55: Heavy Duty Forks
+  56: Hefty Small Trash Bags
+  57: Hello Toothpaste
+  58: Honey Maid Graham Crackers
+  59: Ice Cream Sandwiches
+  60: Ice Breakers Ice Cubes
+  61: Jello Vanilla Pudding
+  62: Kerrygold Butter
+  63: Kleenex
+  64: Lipton Noodle Soup
+  65: Mac 'n' Cheese Shells
+  66: Macaroni and Cheese Original
+  67: Matzo Balls
+  68: McCormick Natures Food Coloring
+  69: Milk Duds
+  70: Minute Tapioca
+  71: Miss Dior
+  72: Mixed Berries Hibiscus Tea
+  73: M&Ms Peanuts
+  74: Mochi Ice Cream
+  75: Motrin Ib Migraine
+  76: Mr Clean
+  77: Nasacort Allergy
+  78: Nasal Decongestant
+  79: Nasal Strip
+  80: Nature Valley Granola Bars
+  81: Nintendo Switch Controllers
+  82: Onion Soup Dip Mix
+  83: Pedialyte Powder
+  84: Peets Keurig
+  85: Peet's Coffee Grounds Dark Roast
+  86: Playtex Sport
+  87: Pocky Strawberry
+  88: Pork Sausage
+  89: Pure Vanilla Extract
+  90: Raisinets
+  91: Ranch Seasoning
+  92: Reese's Pieces
+  93: Rewetting Drops Contact Solution
+  94: Smores Poptarts
+  95: Snuggle Dryer Sheets
+  96: Sour Patch Kids
+  97: Stevia in the Raw
+  98: Strawberry Jello
+  99: Stress Relief Spray All Natural
+  100: Sunmaid Raisins
+  101: Swiss Miss Hot Chocolate
+  102: Tampax
+  103: Tide Pods
+  104: Toothpicks
+  105: Tostada Shells
+  106: Total Home Scent Boos
+  107: Tussin
+  108: Tylenol Arthritis
+  109: Unstoppables
+  110: Vapo Rub
+  111: Vick's Pure Zzz's
+  112: Vinyl Gloves
+  113: Visine Red Eye Hydrating Comfort
+  114: Whoppers
+  115: Wild Strawberry Tea
+  116: Woolite Delicates _Attempt_
+  
